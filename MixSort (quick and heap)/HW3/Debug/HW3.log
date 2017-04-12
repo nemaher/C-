@@ -1,0 +1,8 @@
+﻿  HW3.cpp
+c:\users\nick\documents\visual studio 2015\projects\hw3\hw3\hw3.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\visual studio 2015\projects\hw3\hw3\hw3.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\visual studio 2015\projects\hw3\hw3\hw3.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\visual studio 2015\projects\hw3\hw3\hw3.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\visual studio 2015\projects\hw3\hw3\hw3.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  HW3.vcxproj -> c:\users\nick\documents\visual studio 2015\Projects\HW3\Debug\HW3.exe
+  HW3.vcxproj -> c:\users\nick\documents\visual studio 2015\Projects\HW3\Debug\HW3.pdb (Partial PDB)
